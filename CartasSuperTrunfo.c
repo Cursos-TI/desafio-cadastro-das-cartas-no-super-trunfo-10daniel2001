@@ -62,8 +62,24 @@
                 // ENTRADA E SAIDA ULTILIZANDO PRINTF E SCANF 
 
                 //exibiçao das cartas preenchida
+                printf("ESTADO: %s \n", estado01);
+                printf("CODIGO: %s \n", codigo01);
+                printf("CIDADE: %s \n", nomecidade01);
+                printf("POPULAÇAO: %d \n", populacao01);
+                printf("AREA EM KM²: %.2f \n", area01);
+                printf("PIB: %.2f \n", pib01);
+                printf("PONTOS TURISTICOS: %d \n", pontosturisticos01);
+
+                //exibicao da segunda carta preenchida
+                printf("ESTADO: %s \n", estado02);
+                printf("CODIGO: %s \n", codigo02);
+                printf("CIDADE: %s \n", nomecidade02);
+                printf("POPULAÇAO: %d \n", populacao02);
+                printf("AREA EM KM²: %.2f \n", area02);
+                printf("PIB: %.2f \n", pib02);
+                printf("PONTOS TURISTICOS: %d \n", pontosturisticos02);
 
 
 
-                
+          return 0;      
           }
