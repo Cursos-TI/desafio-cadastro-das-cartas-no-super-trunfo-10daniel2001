@@ -27,7 +27,7 @@ int main() {
     printf("DIGITE O CODIGO (ex: SP01): ");
     scanf("%s", codigo01);
     printf("DIGITE A CIDADE: ");
-    scanf(" %[^\n]", nomecidade01);  // aceita espaços
+    scanf("%s", nomecidade01);  // aceita espaços
     printf("DIGITE A POPULAÇÃO: ");
     scanf("%lu", &populacao01);
     printf("DIGITE A ÁREA EM m²: ");
@@ -45,7 +45,7 @@ int main() {
     printf("DIGITE O CODIGO (ex: RJ01): ");
     scanf("%s", codigo02);
     printf("DIGITE A CIDADE: ");
-    scanf(" %[^\n]", nomecidade02);  // aceita espaços
+    scanf("%s", nomecidade02);  // aceita espaços
     printf("DIGITE A POPULAÇÃO: ");
     scanf("%lu", &populacao02);
     printf("DIGITE A ÁREA EM m²: ");
