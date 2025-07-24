@@ -1,5 +1,5 @@
           #include <stdio.h> // biblioteca
-          int main(){ 
+          int main(){  //Carlos daniel
 
 // variaveis da carta 01
             char estado01[3];  //strings 2 caracter 
