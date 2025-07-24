@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //Carlos daniel
           int main(){
             //carta  01 super trunfo
             //Declarando variaveis da primeira carta 
